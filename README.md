@@ -49,3 +49,8 @@ The script utilizes the following data structures:
 3. Run the crawler using:
    ```bash
    bash crawler.sh
+
+
+<img width="773" alt="Screenshot 2025-01-24 at 2 16 55 AM" src="https://github.com/user-attachments/assets/98a96632-9e87-4398-ab74-c820667e7123" />
+<img width="778" alt="Screenshot 2025-01-24 at 2 16 44 AM" src="https://github.com/user-attachments/assets/09d73cfa-3a03-469d-b3d1-4a8193f6011d" />
+<img width="831" alt="Screenshot 2025-01-24 at 2 18 18 AM" src="https://github.com/user-attachments/assets/b2b0f40d-f188-440b-a043-53cd614f84eb" />
